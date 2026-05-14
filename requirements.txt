@@ -1,0 +1,7 @@
+torch
+transformers>=4.54.0
+accelerate
+huggingface_hub
+safetensors
+vllm
+tqdm
